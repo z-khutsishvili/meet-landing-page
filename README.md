@@ -4,7 +4,7 @@ This is a solution to the [Meet landing page challenge on Frontend Mentor](https
 
 ## Links
 
-- Solution URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/meet-landing-page-V4KXCbi5l9](https://www.frontendmentor.io/solutions/meet-landing-page-V4KXCbi5l9)
 - Live Site URL: [https://z-khutsishvili.github.io/meet-landing-page/](https://z-khutsishvili.github.io/meet-landing-page/)
 
 ## Built with
